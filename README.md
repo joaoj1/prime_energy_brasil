@@ -72,7 +72,7 @@ Instalação
 Clone o repositório:
 bash
 Copy code
-git clone https://github.com/seu-repositorio/prime-energy-brasil.git
+git clone https://github.com/joaoj1/prime_energy_brasil
 cd prime-energy-brasil
 1. Instale as dependências:
 bash
